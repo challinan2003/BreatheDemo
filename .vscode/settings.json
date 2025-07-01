@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "BreathingHorrorGame.sln"
+    "dotnet.defaultSolution": "BreatheDemo.sln"
 }
